@@ -5,7 +5,7 @@ In [Dev Bootcamp] we were assigned a group project in which we were to create a 
 
 ##### User Stories:
 
-- As a user, I want to:
+As a user, I want to:
 
 - login/logout.
 - when logged in, be able to post a question.
