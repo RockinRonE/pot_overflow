@@ -1,15 +1,12 @@
-## Team Name: Pot Overflow
+# Pot Overflow
 
-#### Members:
-- Will Granger
-- Ronny Ewanek
-- Joshua Shin
-- Shea Munion
-- Michael Jasinski
+##### Introduction
+In [Dev Bootcamp] we were assigned a group project in which we were to create a Stack Overflow like site for any subject. We created a site in which users could post cooking related questions called Pot Overflow (anyone who has cooked has had a pot overflow). The app was built using Sinatra and Bootstrap. 
 
-#### User Stories:
+##### User Stories:
 
-##### As a user, I want to:
+- As a user, I want to:
+
 - login/logout.
 - when logged in, be able to post a question.
 - when logged in, be able to post a response.
@@ -18,15 +15,5 @@
 - view my profile page with stats.
 - vote a question or answer up or down (only once).
 
-#### Expectations:
 
-- We are here to learn
-- We will have fun
-- We will have regular check-ins.
-- We will decide responsibilities between team members and trust our team members.
-- We will agree upon a schema together.
-- We will discuss workflow as a team.
-- We will respect group members who wish to take the 5:00pm cutoff.
-- We will be mindful of commits and commit messages.
-- After a merge, inactive branches will be deleted.
-- We will be mindful of single responsibilities, separation of concerns, organization, and naming.
+[dev bootcamp]: <http://www.devbootcamp.com>
