@@ -1,7 +1,7 @@
 # Pot Overflow
 
 ##### Introduction
-In [Dev Bootcamp] we were assigned a group project in which we were to create a Stack Overflow like site for any subject. We created a site in which users could post cooking related questions called Pot Overflow (anyone who has cooked has had a pot overflow). The app was built using Sinatra and Bootstrap. 
+In [Dev Bootcamp] we were assigned a group project in which we were to create a Stack Overflow like site for any subject. We created a site called Pot Overflow in which users could post cooking related questions (anyone who has cooked has had a pot overflow). The app was built using Sinatra and Bootstrap. 
 
 ##### User Stories:
 
